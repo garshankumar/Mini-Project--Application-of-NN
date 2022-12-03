@@ -23,6 +23,7 @@ training data with the test data.
 Step 6:
 Make Predictions and plot the graph with the Actual and Predicted values.
 ## Program
+```
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
